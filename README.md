@@ -1,5 +1,5 @@
 # Quotientlife_Project 😊
-# Quotientlife News Website Clone
+# Quotientlife News Website Clone 💡
 This is a responsive news website clone inspired by the original Quotientlife. The website displays up-to-date news articles and provides an easy-to-navigate interface for users. Built using Bootstrap, HTML, CSS, and JavaScript, this project is fully responsive, ensuring a seamless experience across all screen sizes.
 
 # Features 🚀
