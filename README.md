@@ -9,8 +9,8 @@ News Feed: Displays news headlines dynamically, ensuring visitors can access the
 Optimized for Speed: Lightweight and fast-loading website.
 
 # Technologies Used 📱
-HTML5: Markup structure for the webpage.
-CSS3: Styling to enhance the visual presentation.
-Bootstrap: Framework used for building responsive and mobile-first layouts.
-JavaScript: For dynamic functionalities like interactive components.
+HTML5: Markup structure for the webpage.<br>
+CSS3: Styling to enhance the visual presentation.<br>
+Bootstrap: Framework used for building responsive and mobile-first layouts.<br>
+JavaScript: For dynamic functionalities like interactive components.<br>
 Media Queries: To ensure a fully responsive design on different devices.
